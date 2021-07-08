@@ -1,12 +1,16 @@
-<h1 align="center"><img src="hi.gif" alt="hi" width="40"/> Hi there, I'm Patty.| </h1>
+<div align="center">
+
+### Hi there, I'm Patty.| <img src="hi.gif" alt="hi" width="40"/>
 
 
 
-<div backgroundColor="pink">
+<br>
 
-<div align="center"><a href="https://twitter.com/pattyarunya" ><img src="twitter.png" alt="hi" width="40"/></a>
+
+<a href="https://twitter.com/pattyarunya" ><img src="twitter.png" alt="hi" width="40"/></a>
 <a href="linkedin.com/in/pattyarunyavikul/">
 <img src="linkedin.png" alt="hi" width="40"/></a>
+
 </div>
 
 <br>
@@ -15,13 +19,6 @@
 const Patty = {
   Pronouns: "she/her",
   Hobbies: ["Fitness", "Drawing", "Karaoke", "Anime"],
-  Languages: ["English", "Thai"],
-  Timezone: EST
+  Languages: ["English", "Thai"]
 }
  ```
-
-
-
-</div>
-
-
