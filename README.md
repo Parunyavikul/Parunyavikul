@@ -1,14 +1,5 @@
-# Hello, I'm Patty!
+<h1 align="center"> Hello, I'm Patty! </h1>
 
-```js
-function sayHello(s){
-
-}
-
-
-sayHello("Hello, I'm Patty");
-
-```
 
 
 
