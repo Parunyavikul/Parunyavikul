@@ -1,17 +1,16 @@
-<div align="center">
 
-<img src="hi.gif" alt="hi" width="40"/>
+<center>
 
 # Hi there, I'm Patty.|
 
 
 
-<a href="https://twitter.com/pattyarunya" ><img src="twitter.png" alt="hi" width="40"/></a>
+
+<a href="https://twitter.com/pattyarunya" ><img src="twitter.png" alt="hi" width="36"/></a>
 <a href="linkedin.com/in/pattyarunyavikul/">
-<img src="linkedin.png" alt="hi" width="40"/></a>
+<img src="linkedin.png" alt="hi" width="36"/></a>
 
-</div>
-
+</center>
 
 ```js
 const Patty = {
