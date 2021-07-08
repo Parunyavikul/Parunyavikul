@@ -1,6 +1,8 @@
 <div align="center">
 
-## Hi there, I'm Patty.| <img src="hi.gif" alt="hi" width="40"/>
+<img src="hi.gif" alt="hi" width="40"/>
+
+# Hi there, I'm Patty.|
 
 
 
