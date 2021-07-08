@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm <span font-color="blue">Patty </span>:woman_technologist:</h1>
+<h1 align="center"> Hi there, I'm Patty.| </span>:woman_technologist:</h1>
 
 
 
