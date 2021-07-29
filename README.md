@@ -9,7 +9,6 @@ Feel free to reach out to me
 ```js
 const Patty = {
   Pronouns: "she/her",
-  Hobbies: ["Fitness", "Drawing", "Karaoke", "Anime", "Puzzle Games"],
   Languages: ["English", "Thai"],
   Timezone: EST
 }
